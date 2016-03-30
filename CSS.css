@@ -1,0 +1,49 @@
+#FirstDiv {
+  background-color: steelblue;
+  color: #ffffff;
+  margin: 10px;
+  padding: 15px;
+  font-family: FontAwesome;
+  border-radius: 10px;
+}
+
+li {
+  color: yellow;
+}
+
+li > button {
+  color=green
+}
+
+.BackgroundImage1 {
+  height: 50px;
+  width: 50px;
+  background-color: steelblue;
+  background-image: url('https://yt3.ggpht.com/-RZYi5isxH_M/AAAAAAAAAAI/AAAAAAAAAAA/rmWpoe2qZzI/s900-c-k-no/photo.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.BackgroundImage2 {
+  height: 150px;
+  width: 150px;
+  background-color: steelblue;
+  background-image: url('https://avatars0.githubusercontent.com/u/12938618?v=3&s=400');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+}
+
+.Title h1,
+h2,
+h3 {
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: FontAwesome;
+  color: #000000;
+}
